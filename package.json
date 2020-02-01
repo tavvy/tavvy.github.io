@@ -1,0 +1,12 @@
+{
+  "name": "adamtavener.co.uk",
+  "version": "1.0.0",
+  "description": "Personal website",
+  "scripts": {
+    "dev": "serve ."
+  },
+  "author": "Adam Tavener",
+  "devDependencies": {
+    "serve": "^11.3.0"
+  }
+}
